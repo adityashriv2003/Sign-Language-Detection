@@ -34,5 +34,3 @@ For an alternative implementation using PyTorch, check out the `sign_language_py
 Feel free to explore and modify the code to suit your specific needs and enhance the project further.
 
 ---
-
-*Note: Replace the image placeholder with an actual image or logo relevant to your project.*
